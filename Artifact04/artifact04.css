@@ -1,0 +1,30 @@
+body{
+    color: #350466;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ebc1ff;
+    margin-left: 5%;
+
+}
+
+fieldset{
+    background-color: white;
+    border: 1px solid #f5e0ff;
+    border-radius: 10px;
+}
+
+legend{
+    background-color: white;
+    border: 1px solid #f5e0ff;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+#errorMessages{
+float: right;
+margin-right: 10%;
+color:red;
+}
+
+.layout{
+ width: 35%;
+ margin-bottom: 1em;
+}
